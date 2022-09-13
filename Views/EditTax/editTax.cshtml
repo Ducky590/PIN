@@ -1,0 +1,34 @@
+﻿@using PIN_izračun.Models
+
+@{
+       ViewData["Title"] = "Izračun plaće";
+}
+
+ <div class="container">
+    @model User
+    @using (Html.BeginForm("CalculateTaxes", "EditTax"))
+    {
+        <br/>
+        @Html.LabelFor(x => x.SalaryBruto, "Bruto")
+        @Html.TextBoxFor(x => x.SalaryBruto)
+        <br/>
+        @Html.LabelFor(x => x.City, "Grad")
+        @Html.DropDownListFor(m => m.City, 
+            new SelectList(Enum.GetValues(typeof(City))))
+        <br/>
+        @Html.LabelFor(x => x.TaxReduction, "Olakšica za djecu")
+                @Html.DropDownListFor(m => m.TaxReduction, 
+            new SelectList(Enum.GetValues(typeof(TaxtReduction))))
+        <br/>
+        @Html.LabelFor(x => x.Stup, "Drugi Stup")
+        @Html.CheckBoxFor(x => x.Stup);
+        <br/>
+        <input type="Submit" value ="Izračunaj" class="ui-button-icon-secondary"/>
+        <input type="button" value ="Nazad" onclick="location.href='@Url.Action("Index", "Home")'"/>
+    }
+</div>
+
+@if(ViewBag.Error != null)
+{
+    <label style="color:red">@ViewBag.Error</label>
+}

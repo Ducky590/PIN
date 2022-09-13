@@ -1,0 +1,58 @@
+﻿@using PIN_izračun.Models
+
+@{
+    ViewData["Title"] = "Prijava";
+}
+
+<h3>Prijava</h3>
+
+<div class="container">
+    @using (Html.BeginForm("login", "Home", FormMethod.Post))
+    {
+        <table border="0" cellpadding="2" cellspacing="2">
+            <tr>
+                <td>Ime</td>
+                <td><input type="text" name="username"></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <input type="submit" value="Ulaz" />
+            </tr>
+        </table>
+
+        <br />
+    }
+</div>
+
+<div class="container">
+    @model User
+    @using (Html.BeginForm("register", "Home"))
+    {
+        <br />
+        @Html.LabelFor(x => x.Email, "Email")
+        @Html.TextBoxFor(x => x.Email)
+        <br />
+        @Html.LabelFor(x => x.Email, "Ime")
+        @Html.TextBoxFor(x => x.Name)
+        ;
+        <br />
+        @Html.LabelFor(x => x.Email, "Password")
+        @Html.PasswordFor(x => x.Password)
+        ;
+        <br />
+        <input type="Submit" value="Upiši" class="ui-button-icon-secondary" />
+    }
+</div>
+
+@if (ViewBag.Error != null)
+{
+    <label style="color:red">@ViewBag.Error</label>
+}
+
+@if (ViewBag.Succes != null)
+{
+    <label style="color:green">@ViewBag.Succes</label>
+}

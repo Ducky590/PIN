@@ -1,0 +1,33 @@
+﻿@using PIN_izračun.Models
+
+@{
+    ViewData["Title"] = "Plaća";
+    User user = @ViewBag.User;
+}
+<p>Ime: </p>
+<p>@user.Name</p>
+
+<p>Bruto:</p>
+<p>@user.SalaryBruto</p>
+
+<p>Prvi stup:</p>
+<p>@user.PrviStup</p>
+
+<p>Drugi stup:</p>
+<p>@user.DrugiStup</p>
+
+<p>Osnovica:</p>
+<p>@user.Osnovica</p>
+
+<p>Olakšica:</p>
+<p>@user.OlakšicaDjeca</p>
+
+<p>Porez:</p>
+<p>@user.Porez</p>
+
+<p>Prirez:</p>
+<p>@user.Prirez</p>
+
+<p>Neto:</p>
+<p>@user.IznosNeto</p>
+
