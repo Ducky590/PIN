@@ -1,0 +1,102 @@
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\appsettings.json
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.staticwebassets.runtime.json
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.exe
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.deps.json
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.runtimeconfig.json
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.pdb
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\SQLConnection.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.AssemblyReference.cache
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.AssemblyInfoInputs.cache
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.AssemblyInfo.cs
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.CoreCompileInputs.cache
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.RazorAssemblyInfo.cache
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.RazorAssemblyInfo.cs
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\bundle\PIN izračun.styles.css
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\projectbundle\PIN izračun.bundle.scp.css
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.CopyComplete
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\refint\PIN izračun.dll
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.pdb
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.genruntimeconfig.cache
+C:\Users\Daki\Desktop\PIN\PIN izračun\PIN izračun\obj\Debug\net6.0\ref\PIN izračun.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\appsettings.json
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.staticwebassets.runtime.json
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.exe
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.deps.json
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.runtimeconfig.json
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\ref\PIN izračun.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.pdb
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\SQLConnection.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.AssemblyReference.cache
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.AssemblyInfoInputs.cache
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.AssemblyInfo.cs
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.CoreCompileInputs.cache
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.RazorAssemblyInfo.cache
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.RazorAssemblyInfo.cs
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\bundle\PIN izračun.styles.css
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\projectbundle\PIN izračun.bundle.scp.css
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.CopyComplete
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\ref\PIN izračun.dll
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.pdb
+C:\Users\josemi\Desktop\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.genruntimeconfig.cache
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\appsettings.json
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.staticwebassets.runtime.json
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.exe
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.deps.json
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.runtimeconfig.json
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\PIN izračun.pdb
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\SQLConnection.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.AssemblyReference.cache
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.AssemblyInfoInputs.cache
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.AssemblyInfo.cs
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.CoreCompileInputs.cache
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.RazorAssemblyInfo.cache
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.RazorAssemblyInfo.cs
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\bundle\PIN izračun.styles.css
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\scopedcss\projectbundle\PIN izračun.bundle.scp.css
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.csproj.CopyComplete
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\refint\PIN izračun.dll
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.pdb
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\PIN izračun.genruntimeconfig.cache
+C:\Users\UnAgi Admin\Desktop\Daki project\PIN izračun\PIN izračun\obj\Debug\net6.0\ref\PIN izračun.dll
